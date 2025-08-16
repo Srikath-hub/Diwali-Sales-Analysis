@@ -12,7 +12,7 @@ The analysis helps businesses improve marketing strategies, customer targeting, 
 - Identify top-performing products, states, and customer segments
 - Visualize insights using Matplotlib & Seaborn
 ### Dataset Used:
-  - <a herf="https://github.com/Srikath-hub/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Data.csv">DataSet</a>
+- <a herf="https://github.com/Srikath-hub/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Data.csv">DataSet</a>
 
 ### Tools & Libraries
 - Python 3.10+
